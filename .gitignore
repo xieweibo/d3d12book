@@ -63,3 +63,8 @@ Temporary Items
 *.ipch
 Chapter 7 Drawing in Direct3D Part II/LandAndWaves/x64/Release/LandAndWaves.vcxproj.FileListAbsolute.txt
 *.suo
+*.ilk
+*.idb
+Chapter 8 Lighting/LitColumns/x64/Debug/LitColumns.vcxproj.FileListAbsolute.txt
+Chapter 8 Lighting/LitColumns/x64/Release/LitColumns.vcxproj.FileListAbsolute.txt
+Chapter 8 Lighting/LitWaves/x64/Debug/LitWaves.vcxproj.FileListAbsolute.txt
