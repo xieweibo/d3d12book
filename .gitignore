@@ -45,3 +45,21 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.vsidx
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.lock
+*.obj
+*.iobj
+*.ipdb
+*.log
+*.pdb
+*.tlog
+*.recipe
+*.user
+*.exe
+*.ipch
+Chapter 7 Drawing in Direct3D Part II/LandAndWaves/x64/Release/LandAndWaves.vcxproj.FileListAbsolute.txt
+*.suo
