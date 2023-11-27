@@ -39,6 +39,9 @@
     <ClCompile Include="FrameResource.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CrateAppEx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Common\d3dApp.h">
